@@ -21,8 +21,8 @@ The repository includes sample code for both real-time webcam detection and vide
 - Detected object: Dog  
   The system has drawn a bounding box around a dog in the grass.
 
-![Sample Output: Dog Detection](<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9f6219e2-843d-4718-ab3e-06fc82735a66" />
-)
+![Sample Output: Dog Detection]
+<img width="850" height="796" alt="image" src="https://github.com/user-attachments/assets/c4e86037-ea1b-43eb-8961-e2f9c1282f1f" />
 
 
 ### Video Output
